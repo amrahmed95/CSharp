@@ -1,0 +1,7 @@
+C:\Users\Amr Ahmed\OneDrive\Desktop\CSharp\stopwatch\stopwatch\bin\Debug\stopwatch.exe.config
+C:\Users\Amr Ahmed\OneDrive\Desktop\CSharp\stopwatch\stopwatch\bin\Debug\stopwatch.exe
+C:\Users\Amr Ahmed\OneDrive\Desktop\CSharp\stopwatch\stopwatch\bin\Debug\stopwatch.pdb
+C:\Users\Amr Ahmed\OneDrive\Desktop\CSharp\stopwatch\stopwatch\obj\Debug\stopwatch.csprojAssemblyReference.cache
+C:\Users\Amr Ahmed\OneDrive\Desktop\CSharp\stopwatch\stopwatch\obj\Debug\stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Amr Ahmed\OneDrive\Desktop\CSharp\stopwatch\stopwatch\obj\Debug\stopwatch.exe
+C:\Users\Amr Ahmed\OneDrive\Desktop\CSharp\stopwatch\stopwatch\obj\Debug\stopwatch.pdb

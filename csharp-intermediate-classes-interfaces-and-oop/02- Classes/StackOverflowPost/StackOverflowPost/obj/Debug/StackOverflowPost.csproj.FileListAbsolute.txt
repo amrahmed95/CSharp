@@ -1,0 +1,7 @@
+C:\Users\Amr Ahmed\OneDrive\Desktop\CSharp\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.exe.config
+C:\Users\Amr Ahmed\OneDrive\Desktop\CSharp\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.exe
+C:\Users\Amr Ahmed\OneDrive\Desktop\CSharp\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.pdb
+C:\Users\Amr Ahmed\OneDrive\Desktop\CSharp\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.csprojAssemblyReference.cache
+C:\Users\Amr Ahmed\OneDrive\Desktop\CSharp\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.csproj.CoreCompileInputs.cache
+C:\Users\Amr Ahmed\OneDrive\Desktop\CSharp\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.exe
+C:\Users\Amr Ahmed\OneDrive\Desktop\CSharp\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.pdb
